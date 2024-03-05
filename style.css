@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(#12c2e9, #c471ed, #f64f59);
+}
+ input, button{
+    display: block;
+    width: 100%;
+    margin-top: 1rem;
+    height: 2rem;
+
+ }
+ .mybutton{
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius:45px ;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px
+ 
+   }
